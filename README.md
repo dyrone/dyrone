@@ -1,78 +1,71 @@
-# Hi, I'm Zach :wave:
+# Hi, I'm dyrone :wave:
 
-Software engineer, digital media designer, and aspiring software entrepreneur.  
-Building [Abyss Inc.][abyss]
-
-[abyss]: https://github.com/abyss-inc
+Software Engineer, Husband, Father, Senile Hoopster.
 
 ## Life
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
-:shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
-:shipit: [**UR Systems Research**][systems] REU student  
-:shipit: [**ACM SIGGRAPH**][siggraph] Student Member  
-:shipit: [**DandyHacks**][dandyhacks] 2021 1st Place winner, 2022 & 2023 organizer  
-:shipit: [**Abyss Inc.**][abyss] founder  
-:shipit: [**RocLab**][roclab] frontend engineer  
-:shipit: [**42tm**][42tm] founder & software engineer
+:shipit: [**AIS (Alibaba Infrastructure), Alibaba**] SDE II, Middle Platform, Code Service  
+:shipit: [**R&D Efficiency Department, Alibaba**] SDE II, Self-developed code hosting system  
+:shipit: [**UTC(underlying tech of code), Alibaba**] Senior SDE, Codesearch, Git  
+:shipit: [**UTC, Alicloud**] Senior SDE, svn offline to git, Gerrit distributed Architecture  
+:shipit: [**UTC, Alicloud**] Staff SDE, multiple-replica git architecture(Galileo, similar to Github Spokes)  
+:shipit: [**UTC, Alicloud**] Staff SDE, leader of UTC git tech  
+:shipit: [**UTC, Alicloud**] Staff SDE, PM, codeup.aliyun.com and atomgit.com(beta)
 
-[ur]: https://rochester.edu
-[siggraph]: https://siggraph.org
-[42tm]: https://github.com/42tm
-[systems]: https://www.cs.rochester.edu/dept/systems/
-[csug]: https://ur-csug.org
-[dandyhacks]: https://dandyhacks.net
-[roclab]: https://roclab.io
 
 ## Skills
 
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-00AC47?logo=c&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F8981D?logo=openjdk&logoColor=white&style=for-the-badge)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 
-_Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
-:skateboard: skateboarding, :computer_mouse: interactive experiences._
-
-### Software
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
-[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
-[![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge)](https://helix-editor.com)
-[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-[![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
+![Emacs](https://img.shields.io/badge/Emacs-B366F6?logo=gnuemacs&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-FF7143?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![IntelliJ Idea](https://img.shields.io/badge/IDEA-007ACC?logo=intellijidea&logoColor=white&style=for-the-badge)
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 
 <p align="center">
-    <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
+    <b>Looking for an opportunity to join the field of code technology?
+        <a href="mailto: dyroneteng@gmail.com">Let's connect and talk!</a>
     </b>
 </p>
 
 ### Interests
 
-Let's connect and talk about…
+:fishsticks: **Git committer:** 
 
-algorithms, AR/VR, computer graphics, data structures, machine learning,
-parallel computing, programming languages, Rust, software design, web
-development,
+I have been participating in the Git community contribution since 2021. As an
+11-year java developer, it is not easy to pick up the C language again, because
+my usual work content is more complicated, but I am participating and growing as
+much as possible.
 
-…or anything you'd like. （๑╹◡╹๑）
+My activities in Git Community: https://lore.kernel.org/git/?q=Teng+Long
 
-GIF by Sand Castles Studio for their game Bread & Fred.
+:fishsticks: **Gerrit committer:**
+
+In the process of implementing the distributed architecture of Gerrit in
+Alibaba, I made some commits to the core of Gerrit. Gerrit is implemented in
+Java, so it is more comfortable for me. However, due to the work focus, I have
+little time to contribute, but I still pay close attention to the development of
+Gerrit frequently.
+
+My activities in Gerrit Community: http://gerrit-review.googlesource.com/q/dyroneteng@gmail.com
+
+and also formed some interesting disorganized materials, which are:
+
+:ice_cream: [**Git Rev News #95 interview**](https://git.github.io/rev_news/2023/01/31/edition-95/ "Git Rev News #95 interview")  
+:ice_cream: [**Code transparent encryption based on Git**](https://mp.weixin.qq.com/s/i5oHyDz-UiFdYXTku8cGLw)  
+:ice_cream: [**Git objects and reference principles**](https://mp.weixin.qq.com/s/UTETcreecYfotJzlR1fAkw)  
+:ice_cream: [**Git objects and reference principles(Bilibili)**](https://www.bilibili.com/video/BV1a44y1b7tm)  
+:ice_cream: [**计算机历史博物馆采访(Computer History Museum interview)**](https://www.xiaoyuzhoufm.com/episode/63ea3205e99bdef7d39ea6d8)  
+:ice_cream: [**One of the editorial boards of Efficient Coding: A Java Development Manual (Easy Coding)**](https://github.com/alibaba/p3c/blob/master/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C(%E9%BB%84%E5%B1%B1%E7%89%88).pdf)  
+:ice_cream: **Alibaba Cloud 2020 Top 10 Technology Architecture Award: Multi-master architecture based on Git**
 
 ---
 
@@ -80,30 +73,9 @@ GIF by Sand Castles Studio for their game Bread & Fred.
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>-->
 
-<a href="mailto:duongnguyen18@siggraph.org">
+<a href="mailto:dyroneteng@gmail.com">
     <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
-
-<a href="https://www.linkedin.com/in/zach-nguyen">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
-
-<a href="https://paypal.me/dnguy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
-</a>
-
-<a href="https://www.buymeacoffee.com/cszach">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
-</a>
-
-<a href="https://liberapay.com/cszach">
-    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
-
-<a href="https://www.instagram.com/thechonkypenguin">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
-</a>
-
-<a href="https://dribbble.com/cszach">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+<a href="https://dyrone.github.io/">
+    <img height="32" align="left" alt="Mail" src="img/icons/dyrone.png" />
 </a>
