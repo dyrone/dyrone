@@ -66,8 +66,8 @@ and also formed some interesting disorganized materials, which are:
 :ice_cream: [**计算机历史博物馆采访(Computer History Museum interview)**](https://www.xiaoyuzhoufm.com/episode/63ea3205e99bdef7d39ea6d8)  
 :ice_cream: [**One of the editorial boards of Efficient Coding: A Java Development Manual (Easy Coding)**](https://github.com/alibaba/p3c/blob/master/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C(%E9%BB%84%E5%B1%B1%E7%89%88).pdf)  
 :ice_cream: **Alibaba Cloud 2020 Top 10 Technology Architecture Award: Multi-master architecture based on Git**  
-:ice_cream: [**Speech on GDEC(Openatom Global OpenSource Summit), start from 25:00**](https://gongyi.cctv.com/2023/06/12/VIDEpugJe9GosEPc5NJ8uYXJ230612.shtml) 
-:ice_cream: [**打破代码评审难落地魔咒，轻松构建基于代码评审的研发流程和文化**](https://developer.aliyun.com/live/253603) 
+:ice_cream: [**Speech on GDEC(Openatom Global OpenSource Summit), start from 25:00**](https://gongyi.cctv.com/2023/06/12/VIDEpugJe9GosEPc5NJ8uYXJ230612.shtml)  
+:ice_cream: [**打破代码评审难落地魔咒，轻松构建基于代码评审的研发流程和文化**](https://developer.aliyun.com/live/253603)
 
 ---
 
